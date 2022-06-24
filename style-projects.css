@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: Lato;
+}
+
+.background {
+    background-image: url('portfolio background.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+}
+
+.navigation {
+    text-transform: uppercase;
+    font-weight: 400;
+    margin: 20px 20px 0;
+    font-size: 25px;
+}
+
+.navigation ul {
+    list-style: none;
+    text-align: center;
+    word-spacing: 525px;
+}
+
+.navigation li {
+    display: inline-block;
+
+}
+
+.navigation a {
+    color: white;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    opacity: 0.7;
+}
