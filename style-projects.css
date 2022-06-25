@@ -1,14 +1,15 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 html {
-    font-family: Lato;
+    font-family: 'Bebas Neue';
 }
 
 .background {
-    background-image: url('portfolio background.jpeg');
+    background-image: url('portfolio-background2.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100vw;
@@ -20,17 +21,19 @@ html {
     text-transform: uppercase;
     font-weight: 400;
     margin: 20px 20px 0;
-    font-size: 25px;
+    font-size: 35px;
 }
+
 
 .navigation ul {
     list-style: none;
     text-align: center;
-    word-spacing: 525px;
+    word-spacing: 550px;
 }
 
 .navigation li {
     display: inline-block;
+    text-shadow: 2px 2px 2px black;
 
 }
 
@@ -41,4 +44,9 @@ html {
 
 .navigation a:hover {
     opacity: 0.7;
+    text-shadow: none;
+}
+
+p {
+    color: white;
 }
