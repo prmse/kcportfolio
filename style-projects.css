@@ -47,6 +47,28 @@ html {
     text-shadow: none;
 }
 
-p {
+h1, h3, p {
     color: white;
+}
+
+.image-text-align {
+    margin: 3% 5% 0 5%;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 92px;
+    padding-left: 10px;
+}
+
+.image-text-align2 {
+    margin: 2% 5% 0 5%;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 92px;
+    padding-left: 10px;
+}
+
+a img:hover {
+    opacity: 0.7;
 }
