@@ -1,11 +1,10 @@
 # Portfolio
 
-This project was coded using HTML and CSS. This is where I'll showcasing my projects.
+This project was coded using HTML and CSS. This is where I'll be showcasing my projects.
 
 [Live Heroku Development](https://portfolio-kyleh.herokuapp.com/)
 
-![Screenshot](<img width="1427" alt="image" src="https://user-images.githubusercontent.com/105835084/175803023-944a7627-ca80-46c8-90c3-b78dcd44bedd.png">
-)
+<img width="1427" alt="image" src="https://user-images.githubusercontent.com/105835084/175803023-944a7627-ca80-46c8-90c3-b78dcd44bedd.png">
 
 ## Technologies Implemented
 
