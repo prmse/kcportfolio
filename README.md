@@ -1,6 +1,6 @@
 # Portfolio
 
-This project was coded using HTML and CSS. This is where I'll be showcasing my projects.
+This project was coded using HTML and CSS. This is where I'll be showcasing my projects
 
 [Live Heroku Development](https://portfolio-kyleh.herokuapp.com/)
 
@@ -13,8 +13,8 @@ This project was coded using HTML and CSS. This is where I'll be showcasing my p
 
 ## Installation
 
-No installation necessary.
+No installation necessary
 
 ## How To Use?
 
-Use this as a template to create your own portfolio.
+Use this as a template to create your own portfolio
