@@ -52,7 +52,7 @@ h1, h3, p {
 }
 
 .image-text-align {
-    margin: 3% 5% 0 5%;
+    margin: 2% 5% 0 5%;
     border: 2px solid white;
     border-radius: 10px;
     padding-top: 10px;
@@ -71,4 +71,15 @@ h1, h3, p {
 
 a img:hover {
     opacity: 0.7;
+}
+
+footer {
+    margin-top: 0.5%;
+}
+
+footer a {
+    color: gray;
+    text-decoration: none;
+    font-size: x-small;
+    font-family: Lato;
 }
