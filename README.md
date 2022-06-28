@@ -4,7 +4,7 @@ This project was coded using HTML and CSS. This is where I'll be showcasing my p
 
 [Live Heroku Development](https://portfolio-kyleh.herokuapp.com/)
 
-<img width="1427" alt="image" src="https://user-images.githubusercontent.com/105835084/175803023-944a7627-ca80-46c8-90c3-b78dcd44bedd.png">
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/105835084/176069947-52cb20e5-298b-44ee-a226-d994e18acc13.png">
 
 ## Technologies Implemented
 
